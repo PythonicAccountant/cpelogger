@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cpelogger
+POSTGRES_USER=lzYJeereEIAbnDDGVXRrWHlASMZcpPaq
+POSTGRES_PASSWORD=brYBXtYLGs97jErFXQumDRtWLxkKmwxb72djVftzgaVq1FY1xxSF7e0dmxVKYjKP
