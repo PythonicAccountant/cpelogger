@@ -10,6 +10,10 @@ CPE tracker for CA CPA's
      :target: https://github.com/ambv/black
      :alt: Black code style
 
+.. image:: https://github.com/PythonicAccountant/cpelogger/actions/workflows/ci.yml/badge.svg
+     :target: https://github.com/PythonicAccountant/cpelogger/actions/workflows/ci.yml
+     :alt: CI Status
+
 Settings
 --------
 
