@@ -6,3 +6,4 @@ from django.db import models
 class CPE(models.Model):
     credits = models.DecimalField(decimal_places=1, max_digits=6)
     course_name = models.CharField(max_length=200)
+    course_provider = models.CharField(max_length=200)
