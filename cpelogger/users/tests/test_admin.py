@@ -1,7 +1,7 @@
 import pytest
 from django.urls import reverse
 
-from cpelogger.users.models import User
+from ...users.models import User
 
 pytestmark = pytest.mark.django_db
 

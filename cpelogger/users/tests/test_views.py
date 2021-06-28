@@ -8,14 +8,10 @@ from django.http import HttpRequest
 from django.test import RequestFactory
 from django.urls import reverse
 
-from cpelogger.users.forms import UserChangeForm
-from cpelogger.users.models import User
-from cpelogger.users.tests.factories import UserFactory
-from cpelogger.users.views import (
-    UserRedirectView,
-    UserUpdateView,
-    user_detail_view,
-)
+from ...users.forms import UserChangeForm
+from ...users.models import User
+from ...users.tests.factories import UserFactory
+from ...users.views import UserRedirectView, UserUpdateView, user_detail_view
 
 pytestmark = pytest.mark.django_db
 
